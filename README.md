@@ -1,2 +1,8 @@
 # jlox
-JLox interpreter. jlox interpreter
+JLox interpreter
+
+Crafting Interpreters.
+
+https://craftinginterpreters.com/
+
+
